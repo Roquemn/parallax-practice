@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar-light .navbar-brand{
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(245, 245, 245, .88);
+    z-index: 1;
+}
+
+.fa-solid{
+    color: rgba(245, 245, 245, .88);
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: rgba(245, 245, 245, .88);
+}
+
+.bg{
+    background-image: url('/parallax-practice/img/pexels-lumn-288929.jpg');
+    height:100vh;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.road-trip{
+    font-family: 'Lobster', cursive;
+}
+
+.jumbotron-2{
+    background-image: url('/parallax-practice/img/pexels-welton-souza-4613847.jpg');
+    height:100vh;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-3{
+    background-image: url('/parallax-practice/img/pexels-cottonbro-5080835.jpg');
+    height:100vh;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.jumbotron-4{
+    background-image: url('/parallax-practice/img/pexels-erik-schereder-10630987.jpg');
+    height:100vh;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-5{
+    background-image: url('/parallax-practice/img/pexels-ali-kazal-10772381.jpg');
+    height:100vh;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.action{
+    background-color: rgba(0, 0, 0, .5);
+    width: 50vw;
+    height: auto;
+
+}
+
+#footer{
+    background-color:rgb(218, 55, 55);
+}
+
+
+
+
+
+
+
